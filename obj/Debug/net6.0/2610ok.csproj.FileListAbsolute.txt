@@ -1,0 +1,17 @@
+C:\Users\Zeynal\Desktop\2610ok\bin\Debug\net6.0\2610ok.exe
+C:\Users\Zeynal\Desktop\2610ok\bin\Debug\net6.0\2610ok.deps.json
+C:\Users\Zeynal\Desktop\2610ok\bin\Debug\net6.0\2610ok.runtimeconfig.json
+C:\Users\Zeynal\Desktop\2610ok\bin\Debug\net6.0\2610ok.dll
+C:\Users\Zeynal\Desktop\2610ok\bin\Debug\net6.0\2610ok.pdb
+C:\Users\Zeynal\Desktop\2610ok\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Zeynal\Desktop\2610ok\obj\Debug\net6.0\2610ok.csproj.AssemblyReference.cache
+C:\Users\Zeynal\Desktop\2610ok\obj\Debug\net6.0\2610ok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeynal\Desktop\2610ok\obj\Debug\net6.0\2610ok.AssemblyInfoInputs.cache
+C:\Users\Zeynal\Desktop\2610ok\obj\Debug\net6.0\2610ok.AssemblyInfo.cs
+C:\Users\Zeynal\Desktop\2610ok\obj\Debug\net6.0\2610ok.csproj.CoreCompileInputs.cache
+C:\Users\Zeynal\Desktop\2610ok\obj\Debug\net6.0\2610ok.csproj.CopyComplete
+C:\Users\Zeynal\Desktop\2610ok\obj\Debug\net6.0\2610ok.dll
+C:\Users\Zeynal\Desktop\2610ok\obj\Debug\net6.0\refint\2610ok.dll
+C:\Users\Zeynal\Desktop\2610ok\obj\Debug\net6.0\2610ok.pdb
+C:\Users\Zeynal\Desktop\2610ok\obj\Debug\net6.0\2610ok.genruntimeconfig.cache
+C:\Users\Zeynal\Desktop\2610ok\obj\Debug\net6.0\ref\2610ok.dll

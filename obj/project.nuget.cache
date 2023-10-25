@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cRMvNT5ypcbU1JARROzxt4OK49OmL8/AJE2phgxOqSZ1O1DqzyfipdWJOvtG1o4Qv1x1h0UDwq29sVmPdI0pbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zeynal\\Desktop\\2610ok\\2610ok.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zeynal\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
